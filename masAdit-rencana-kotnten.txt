@@ -1,5 +1,6 @@
 Rencana Konten
 
 - Javascript
+*ES6
 *belajar framework javascript
 - Framework PHP
