@@ -1,6 +1,8 @@
 Rencana Konten
 
 - Javascript
-*ES6
+^angular
+^vue
 *belajar framework javascript
 - Framework PHP
+- python
