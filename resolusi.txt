@@ -4,3 +4,4 @@ Resolusi Seketika Ngoding :
 - Mendapat pekerjaan yang diharapkan
 - Belajar phyton
 - Belajar JavaScript
+- Belajar GitHub
