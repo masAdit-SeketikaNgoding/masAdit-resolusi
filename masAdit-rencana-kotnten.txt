@@ -2,7 +2,6 @@ Rencana Konten
 
 - Javascript
 ^angular
-^vue
 *belajar framework javascript
 - Framework PHP
 - python
